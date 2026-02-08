@@ -1,5 +1,16 @@
 # WallStr.chat
 
+[![Status](https://img.shields.io/badge/Status-Archived-red)](https://finanalytica.chat)
+[![Migrated](https://img.shields.io/badge/Migrated_to-FinAnalytica.chat-blue)](https://finanalytica.chat)
+[![License](https://img.shields.io/badge/New_Version-Proprietary%20SaaS-lightgrey)](https://finanalytica.chat)
+
+> [!WARNING]
+> **This repository is archived and no longer maintained.**
+>
+> The project has migrated to **[FinAnalytica.chat](https://finanalytica.chat)**.  
+> Note: The new version has evolved into a proprietary service and is no longer open source.  
+> You can use the live tool at the link above.
+
 ## Installation
 
 1. Install [pnpm](https://pnpm.io/installation#using-npm)
